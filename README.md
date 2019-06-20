@@ -40,6 +40,7 @@ Example: the Software Carpentry workshop organized on the 25th of Sept. 2019 cov
 
 Once you have chosen the most suitable repository, import it. Don't fork it.
 
-To import a repository do what you must.
+To import a repository, find the "Import" button, located on the top right of the github page, inside the drop down menu "+".
+Click on the "+", and select "import repository". 
 
 NOTE: you can't rename forked repositories, and we have a strong naming convention for workshop names.
