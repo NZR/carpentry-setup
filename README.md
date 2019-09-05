@@ -75,7 +75,7 @@ There are few files that *must* be updated.
 | Schedule/agenda                              | _includes/sc/schedule.html |    |
 | Syllabus |  _includes/sc/syllabus.html       |     |
 | Setup (software installation) | index.md      |     |
-| Logos | _include/navbar.html                 |     |
+| Logos | _includes/navbar.html                 |     |
 
 
 #### index.md
